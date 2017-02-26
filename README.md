@@ -29,6 +29,7 @@ Resources
 * [Mediator Design Pattern Tutorial](http://www.newthinktank.com/2012/10/mediator-design-pattern-tutorial/)
 * [Memento Design Pattern Tutorial](http://www.newthinktank.com/2012/10/memento-design-pattern-tutorial/)
 * [Visitor Design Pattern Tutorial](http://www.newthinktank.com/2012/11/visitor-design-pattern-tutorial/)
+* [MVC Java Tutorial](http://www.newthinktank.com/2013/02/mvc-java-tutorial/)
 
 ### Videos
 * [Derek Banas' Design Patterns Tutorial] (http://www.youtube.com/playlist?list=PLF206E906175C7E07)
